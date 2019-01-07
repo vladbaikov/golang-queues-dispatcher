@@ -1,1 +1,2 @@
-# golang-queues-dispatcher
+# Template of Queues dispatcher
+Простейший шаблон диспетчера очередей задач на Go.
